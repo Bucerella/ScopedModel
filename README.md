@@ -6,7 +6,6 @@ A new Flutter project.
 
 Hey! Herkese selam. Sonunda Flutter'a kavuştum. Ve hemmen State Management hakkında bir araştırma yaptım ve örneği uyguladım. Scoped Model, Bloc, RxDart gibi çeşitleri var. Bu bence en kolay yolu diyebilirim. Bence herkes bir gün Flutter'cı olacak. Cağnım Google iyiki de Flutter çıkartmış. 😍<br/>
 
-Ve son olarak sizlere testing hakkında örnekler paylaşmayı umuyorum yakın zamanda. Malum Testing'çi olunca 🙄😤 (Yoğunluktan paylaşamadı) </br>
 
 <table>
   <tr>
